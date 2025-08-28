@@ -1,0 +1,16 @@
+body{
+}
+h1 {
+    color: pink;
+}
+p{
+    color: palevioletred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    margin: 50px;
+}
+a:hover {
+    color: palevioletred;
+    background-color: transparent;
+    text-decoration: underline;
+}
